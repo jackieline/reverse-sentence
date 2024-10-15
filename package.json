@@ -1,0 +1,23 @@
+{
+  "name": "reverse-sentence",
+  "version": "0.1.0",
+  "description": "Reverses a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx prettier . --write"
+  },
+  "author": "Jacqueline Leung",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackieline/reverse-sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackieline/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/jackieline/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
